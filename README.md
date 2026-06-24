@@ -47,10 +47,13 @@
 ## 🖼️ 5. Dashboard Demonstration & Visual Proofs
 
 ### 📸 Static Interface Analytics
-| Page 1: Operational Control Framework | Page 2: Advanced Diagnostic Layer |
-|---|---|
-https://github.com/ManasviDubey10/Sigmasight-six-sigma-spc-powerbi-dashboard/blob/main/Page1-%20SPC_Control_Chart_View.png|
-https://github.com/ManasviDubey10/Sigmasight-six-sigma-spc-powerbi-dashboard/blob/main/Page2-Advanced_Dignostic.png
+
+#### Page 1: Operational Control Framework
+![Page 1: Operational Control Framework]([https://raw.githubusercontent.com/ManasviDubey10/six-sigma-spc-powerbi-dashboard/main/Page1-%20SPC_Control_Chart_View.png](https://github.com/ManasviDubey10/Sigmasight-six-sigma-spc-powerbi-dashboard/blob/main/Page1-%20SPC_Control_Chart_View.png))
+
+#### Page 2: Advanced Diagnostic Layer
+![Page 2: Advanced Diagnostic Layer]([https://raw.githubusercontent.com/ManasviDubey10/six-sigma-spc-powerbi-dashboard/main/Page2-Advanced_Dignostic.png](https://github.com/ManasviDubey10/Sigmasight-six-sigma-spc-powerbi-dashboard/blob/main/Page2-Advanced_Dignostic.png))
+---
 ### 🎥 Interactive Platform Walkthrough
 [*Observe dynamic parameter cross-filtering, active KPI recalibration, and automated warning states:*
 
