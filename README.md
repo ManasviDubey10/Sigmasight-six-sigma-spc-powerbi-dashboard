@@ -46,13 +46,6 @@
 
 ## 🖼️ 5. Dashboard Demonstration & Visual Proofs
 
-### 🎥 Interactive Platform Walkthrough
-*Observe dynamic parameter cross-filtering, active KPI recalibration, and automated warning states:*
-
-https://github.com/ManasviDubey10/six-sigma-spc-powerbi-dashboard/blob/main/Six_Sigma_Dashboard_Walkthrough.mp4
-
----
-
 ### 📸 Static Interface Analytics
 
 #### Page 1: Operational Control Framework
@@ -61,5 +54,11 @@ https://github.com/ManasviDubey10/six-sigma-spc-powerbi-dashboard/blob/main/Six_
 #### Page 2: Advanced Diagnostic Layer
 ![Page 2: Advanced Diagnostic Layer](Page2-Advanced_Dignostic.png)
 
+### 🎥 Interactive Platform Walkthrough
+*Observe dynamic parameter cross-filtering, active KPI recalibration, and automated warning states:*
+
+https://github.com/ManasviDubey10/six-sigma-spc-powerbi-dashboard/blob/main/Six_Sigma_Dashboard_Walkthrough.mp4
+
+---
 ---
 *Developed by Manasvi Dubey — Mechanical Engineering & Business Analytics Specialist.*
